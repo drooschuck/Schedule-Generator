@@ -1,4 +1,3 @@
-
 import { Subject, BreakPreference } from './types';
 import { SubSubject } from './types';
 
@@ -15,7 +14,8 @@ export const SUBJECTS: Subject[] = [
   { name: 'Spanish' },
   { name: 'Computing' },
   { name: 'Art' },
-  { name: 'Music' }
+  { name: 'Music' },
+  { name: 'Religious Education (RE)' }
 ];
 
 export const BREAK_PREFERENCES: BreakPreference[] = [
