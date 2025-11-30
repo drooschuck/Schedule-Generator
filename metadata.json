@@ -1,0 +1,5 @@
+{
+  "name": "GCSE Revision Schedule Generator",
+  "description": "An intelligent revision schedule generator using AI to create personalized study plans based on proven techniques like Pomodoro and spaced repetition. Features include editable sessions, exam prioritization, progress tracking, and print functionality. It's also a Progressive Web App for offline use.",
+  "requestFramePermissions": []
+}
